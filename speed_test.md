@@ -1,23 +1,27 @@
 ** speed test for klicky probe **
 
+**retract_dist: 0.5 mm**  
 **speed: 5 mm/s**  
-retract_dist: 0.5 mm  
-probe accuracy results: maximum 4.302279, minimum 4.280881, range 0.021398, average 4.300492, median 4.301021, standard deviation 0.002635
+probe accuracy results:  
+range 0.021398,  
+standard deviation 0.002635  
 
-speed: 10 mm/s
-retract_dist: 0.5 mm
-probe accuracy results: maximum 4.302279, minimum 4.277105, range 0.025174, average 4.299988, median 4.301021, standard deviation 0.002905
+**speed: 10 mm/s**  
+probe accuracy results:  
+range 0.025174  
+standard deviation 0.002905  
 
-speed: 20 mm/s
-retract_dist: 0.5 mm
-probe accuracy results: maximum 4.307314, minimum 4.277105, range 0.030209, average 4.305011, median 4.306055, standard deviation 0.003175
+**speed: 20 mm/s**  
+probe accuracy results:  
+range 0.030209,  
+standard deviation 0.003175  
 
 
 
-
-speed: 5 mm/s
-retract_dist: 1.0 mm
-probe accuracy results: maximum 4.301021, minimum 4.279623, range 0.021398, average 4.300152, median 4.301021, standard deviation 0.002534
+**retract_dist: 1.0 mm**  
+**speed: 5 mm/s**  
+probe accuracy results:  
+range 0.021398, average 4.300152, median 4.301021, standard deviation 0.002534
 
 speed: 10 mm/s
 retract_dist: 1.0 mm
