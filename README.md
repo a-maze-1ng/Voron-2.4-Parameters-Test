@@ -21,3 +21,17 @@ I wanted to compare the two probes with each other.
 
 * bet at ABS printing temperature (105 °C).
 --> for this scenario the chamber,  the Klicky, and the Unklicky (HS-BFP) probe were preheated for 1 hour (chamber temp ~52 °C).
+
+**Scenario 1 - bed at room temperature (22 °C)**
+
+![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/BFP_Klicky_22C_2.png)
+
+
+**Scenario 2 - bed at room temperature (105 °C)**
+
+![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/BFP_Klicky_105C_2.png)
+
+**Summary**
+
+* It seems that the Klicky probe is a bit more consistant in direct comparison to the Unklicky (HS-BFP) probe. However both probes are doing a good job!
+* I cant explain why the first 4 measurments at the beginning of the PROBE_ACCURACY test are so off
