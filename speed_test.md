@@ -1,4 +1,4 @@
-**_speed test for klicky probe_**  
+# speed test for klicky probe - finding the optimal parameters
 
 **retract_dist: 0.5 mm**  
 **speed: 5 mm/s**  
