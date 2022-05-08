@@ -21,26 +21,31 @@ standard deviation 0.003175
 **retract_dist: 1.0 mm**  
 **speed: 5 mm/s**  
 probe accuracy results:  
-range 0.021398, average 4.300152, median 4.301021, standard deviation 0.002534
+range 0.021398  
+standard deviation 0.002534  
 
-speed: 10 mm/s
-retract_dist: 1.0 mm
-probe accuracy results: maximum 4.302279, minimum 4.279623, range 0.022657, average 4.300794, median 4.301021, standard deviation 0.002532
+**speed: 10 mm/s**  
+probe accuracy results:  
+range 0.022657  
+standard deviation 0.002532  
 
-speed: 20 mm/s
-retract_dist: 1.0 mm
-probe accuracy results: maximum 4.299762, minimum 4.278364, range 0.021398, average 4.297761, median 4.298503, standard deviation 0.002301
+**speed: 20 mm/s**  
+probe accuracy results:  
+range 0.021398  
+standard deviation 0.002301  
 
 
 
+**retract_dist: 2.0 mm  **
+**speed: 5 mm/s**  
+probe accuracy results:  
+range 0.020139  
+standard deviation 0.002459  
 
-speed: 5 mm/s
-retract_dist: 2.0 mm
-probe accuracy results: maximum 4.297244, minimum 4.277105, range 0.020139, average 4.295017, median 4.295986, standard deviation 0.002459
-
-speed: 10 mm/s
-retract_dist: 2.0 mm
-probe accuracy results: maximum 4.297244, minimum 4.278364, range 0.018881, average 4.295142, median 4.295986, standard deviation 0.002188
+**speed: 10 mm/s**
+probe accuracy results:  
+range 0.018881  
+standard deviation 0.002188  
 
 speed: 20 mm/s
 retract_dist: 2.0 mm
