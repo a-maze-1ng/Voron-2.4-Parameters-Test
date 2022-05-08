@@ -24,12 +24,12 @@ I wanted to compare the two probes with each other.
 
 **Scenario 1 - bed at room temperature (22 °C)**
 
-![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/BFP_Klicky_22C_2.png)
+![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/pic/BFP_Klicky_22C_2.png)
 
 
 **Scenario 2 - bed at room temperature (105 °C)**
 
-![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/BFP_Klicky_105C_2.png)
+![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/pic/BFP_Klicky_105C_2.png)
 
 **Summary**
 
