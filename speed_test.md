@@ -36,21 +36,23 @@ standard deviation 0.002301
 
 
 
-**retract_dist: 2.0 mm  **
+**retract_dist: 2.0 mm**  
 **speed: 5 mm/s**  
 probe accuracy results:  
 range 0.020139  
 standard deviation 0.002459  
 
-**speed: 10 mm/s**
+**speed: 10 mm/s**  
 probe accuracy results:  
 range 0.018881  
 standard deviation 0.002188  
 
-speed: 20 mm/s
-retract_dist: 2.0 mm
-probe accuracy results: maximum 4.294727, minimum 4.273329, range 0.021398, average 4.292789, median 4.293468, standard deviation 0.002219
+**speed: 20 mm/s**  
+probe accuracy results:  
+range 0.021398  
+standard deviation 0.002219  
 
-speed: 30 mm/s
-retract_dist: 2.0 mm
-probe accuracy results: maximum 4.294727, minimum 4.272070, range 0.022657, average 4.292814, median 4.293468, standard deviation 0.002508
+**speed: 30 mm/s**  
+probe accuracy results:  
+range 0.022657,  
+standard deviation 0.002508  
