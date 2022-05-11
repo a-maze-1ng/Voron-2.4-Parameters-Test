@@ -27,7 +27,7 @@ I wanted to compare the two probes with each other.
 ![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/pic/BFP_Klicky_22C_2.png)
 
 
-**Scenario 2 - bed at room temperature (105 °C)**
+**Scenario 2 - bed at ABS printing temperature (105 °C)**
 
 ![This is an image](https://github.com/a-maze-1ng/Klicky-vs.-Unklicky/blob/main/pic/BFP_Klicky_105C_2.png)
 
@@ -35,3 +35,4 @@ I wanted to compare the two probes with each other.
 
 * It seems that the Klicky probe is a bit more consistant in direct comparison to the Unklicky (HS-BFP) probe. However both probes are doing a good job!
 * I cant explain why the first 4 measurments at the beginning of the PROBE_ACCURACY test are so off
+-> I investigated the probe speed for the klicky probe it seems a faster probe speed has more consistent results [probe speed test](https://github.com/a-maze-1ng/Voron-2.4-Parameters-Test/blob/main/articles/speed_test.md)
